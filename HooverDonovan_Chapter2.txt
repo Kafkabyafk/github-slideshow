@@ -1,0 +1,288 @@
+THE ELEMENTS OF SCIENCE
+
+Chapter 2
+
+
+"[Scientific inquiry] begins as a story about a Possible World — a story which we invent and criticize and modify as we go along, so that it ends by being, as nearly as we can make it, a story about real life."
+— P. B. Medawar
+
+
+To see scientific thought in the context of other kinds of thinking, as we have tried to do, tells us why we should be interested in science. Now it is time to see what science is made of.
+
+The elements of a scientific strategy are, in themselves, simple to understand. They are concepts, variables, hypotheses, measurements, and theories. The way in which these are combined constitutes the scientific method. It is the function of theory to give meaning and motivation to this method by enabling us to interpret what is observed. First, we will try to put each element in place.
+
+
+THE ORIGIN AND UTILITY OF CONCEPTS
+
+If you had to purge all words and other symbols from your mind and confront the world with a virgin mind, what would you do? Without a body to sustain, you might do nothing. The necessities of survival, however, start closing in, and the first act of the mind might be to sort out the edible objects from the inedible, then the warm from the cold, the friendly from the hostile. From there it isn't very far to forming concepts like food, shelter, and warmth, and symbolizing these concepts in the form of words or utterances. Thus, humbly, emerges the instrument called language. The search for truly usable concepts and categories is under way. Languages are nothing more than huge collections of concepts — names for things, feelings, and ideas generated or acquired by people in the course of relating to each other and to their environment.
+
+Some concepts and classifications might not be very helpful. To conceptualize all plants under only a single designation would preclude further distinctions between those that are edible, those that heal, and those that poison. Some concepts relate to experience too vaguely: English has but one word for something so varied and complicated as love. Greek allows three concepts: eros for romantic love, agape for generalized feelings of affection, and filios for family love. The inadequacy of English in dealing with the concept of love affects everyone's experience through the tricky ways the word is used in our culture.
+
+Notice that reality testing is built right into the process of naming things, one of the most elementary transactions of existence. That back and forth between the stimuli of the environment and the reflections of the mind makes up the kind of thought we will be trying to capture for analysis.
+
+After several thousand years of human history, we still have to face the fact that the process of naming things is difficult. Language emerges essentially by agreement. You and I and the other members of the family (or tribe, state, nation, world) agree, for example, to call things that twinkle in the sky stars. Unfortunately, these agreements may not be very precise. In common usage, the term star covers a multitude of objects, big and small, hot and cold, solid and gaseous.
+
+To call a thing by a precise name is the beginning of understanding, because it is the key to the procedure that allows the mind to grasp reality and its many relationships. It makes a great deal of difference whether an illness is conceived of as caused by an evil spirit or by bacteria on a binge. The concept bacteria is tied to a system of concepts in which there is a connection to a powerful repertoire of treatments, that is, antibiotics.
+
+To capture meaning in language is a profound and subtle process, even if it is a little sloppy. For example, the abstract concept race expresses differences in the ways that groups are identified. When names are given to categories or properties of race, the problems, power, and difficulty of naming things become evident. Researchers often name people "white" or "nonwhite" (or "Anglo" or "non-Anglo") when using simplistic classifications of race. Such a distinction, although common practice, trivializes differences among a large portion of the world's people. Also, the names themselves can raise complex issues. Think of the various names used in the United States to refer to African Americans (Negro, African American, person of color, black) or Hispanic Americans (Latino, Latina, Hispanic, person of color, Latin American, Mexican American, Central American, Puerto Rican, and so forth).
+
+Naming is a process that can give the namer great power. Properties of the concept race are not easily named. Names of races, moreover, confer different identities on different people. In your own expression of social scientific thinking, although you are invited to be precise about concepts, you are not invited to be arrogant about the utility of your new knowledge for reworking lives, societies, and civilizations.
+
+The importance of having the right name for a thing can hardly be overestimated. Thomas Hobbes, a 17th-century English political theorist, thought the proper naming of things so important to the establishment of political order that he made it a central function of the sovereign. King James understood the message and ordered an authoritative translation of the Bible as a way of overcoming violent squabbles about the precise meanings of words in the Scriptures.
+
+More germane to the modern scene, George Orwell, in his antiutopian novel 1984, gave us a vision of a whole bureaucracy devoted to reconstructing language concepts to enhance the power of a totalitarian society. In recent U.S. political history, American presidents have attempted to defuse controversy about unpopular wars they conducted by redefining the concept of military success. These examples are intended to make you aware that, by tinkering with the meanings of concepts, one can play with the foundations of human understanding and social control.
+
+But it will be a while before you master the scientific method sufficiently to pull off anything very grand. For now, the point is that, for scientific purposes, concepts are (1) tentative, (2) based on agreement, and (3) useful only to the degree that they capture or isolate some significant and definable item in reality.
+
+What have concepts got to do with science? If you've spent any time around babies, you might notice that they often try to show off by pointing at things and naming them. It gets a little boring the 10th or 15th time through, but babies take justifiable pride in the exercise. Next come sentences. From naming things, from being able to symbolize something rather than simply pointing at it, comes the next step in moving reality around so it can produce things that are needed. The first sentence Andrew Hoover spoke was to his sister Erin. Sitting on a little cart, he said, "Erin, push me!" She did.
+
+What you are reading now is an effort to link concepts in order to expand your understanding. People speak sentences by the thousands in an attempt to move reality to some useful response. Most people don't have the good luck Andrew did on his first try. Often the concepts are confusing and the connections vague or unlikely, not to mention the problem that the speaker has with the listener's perceptions and motives.
+
+Thought and theory develop through the linking of concepts. Consider, as an example, Pierre Proudhon's famous proposition "Property is theft!" Property, as a concept, stands for the notion that a person can claim exclusive ownership of land or other resources. Theft, of course, means the act of taking something without justification. By linking these two concepts through the verb is, Proudhon meant to equate the institution of private property with the denial of humankind's common ownership of nature's resources. The concept of privately owned property was, he thought, unjustifiable thievery. While Proudhon's declaration illustrates the linkage of concepts at the lofty philosophical level, the humblest sentence performs the same operation.
+
+Science is a way of checking on the formulation of concepts and of testing the possible linkages between them through references to observable phenomena. The next step is to see how scientists turn concepts into something that can be observed. When concepts are defined as variables, they can be used to form a special kind of sentence, the hypothesis.
+
+
+WHAT IS A VARIABLE?
+
+A variable is a name for something that is thought to influence (or be influenced by) a particular state of being in something else. Heat is one variable in making water boil, and so is pressure. Age has been established as a modestly important variable in voting; however, there are many other more significant variables: socioeconomic standing, parental influence, race, gender, region of residence, and so on.
+
+A variable is, in addition, a special kind of concept that contains within it a notion of degree or differentiation. Temperature is an easily understood example of a variable. It includes the notion of more or less heat — that is, of degree. As the name suggests, variables are things that vary. Interesting questions in social science center on concepts that involve variation and how changes in one phenomenon help to explain variation in another.
+
+Consider, as an example, the relationship between religion and voting. In the first place, religion is a different kind of variable than, say, temperature. Although there may be such a thing as degrees of "religiosity," it is likely we would discuss variation in the concept religion in terms of religious denominations such as Buddhist, Christian, and Muslim. There is substantial variation in the religions with which people identify. For example, exit poll data were used to assess the importance of religion in the 2008 election when Democratic presidential candidate Barack Obama challenged Republican candidate John McCain. Data collected by a consortium of media firms found that fully 78 percent of Jewish voters supported Obama (compared to 21 percent for McCain), whereas 65 percent of white Protestants voted for McCain (compared to 34 percent for Obama). Fifty-four percent of Catholics voted for Obama, while 45 percent voted for McCain. Obama won three-quarters of the votes from those reporting no religious affiliation and 73 percent among those with "other" religions. Data such as these permit us to say something meaningful about the relationship between the variable religion and the variable voting behavior.
+
+Although most variables deal with differences of degree, as in temperature, or differences of variety, as in religion, some variables are even simpler. These deal with the most elementary kind of variation: present or absent, there or not there, existent or nonexistent. Take pregnancy, for example. There is no such thing as a little bit of it. Either the condition exists or it doesn't.
+
+Turning concepts into variables, dull as it may seem, is a very creative process and often raises intriguing questions. Consider, as an illustration, such an ordinary variable as time. The early Greeks puzzled a good deal over how to conceptualize this variable. It seems obvious that time has to be thought of as having a beginning — so philosophers went about trying to figure out when the beginning was. Yet the nagging question always popped up: What happened before that?
+
+Plato and Aristotle both played with the idea that time might not be linear at all; that is, it might not have a beginning, a progression, and presumably an end. It just might be cyclical! This seems crazy to us children of linear time, but they were thinking that universal time might be something like the cycle of the body, a rhythm found everywhere in nature. Historic time, therefore, might best be conceived of as an unfolding structure of events in which one follows the other until the whole pattern is played out and the entire cycle starts over again. Aristotle commented that it just might be that he himself "was living before the Fall of Troy quite as much as after it, since, when the wheel of fortune had turned through another cycle, the Trojan War would be reenacted and Troy would fall again."
+
+The social science done by introductory students seldom involves such mind-boggling conceptual problems, yet it wouldn't do to pretend that these problems don't exist. The variable personality, for example, is reputed to have more than 400 definitions in the professional literature, partly because personality is a compound of a huge range of other variables: class, status, self-concept, race, socialization, and so forth. The complexity of personality as a variable has driven social scientists to such awkward definitions as "One's acquired, relatively enduring, yet dynamic, unique system of predispositions to psychological and social behavior."
+
+Even when social scientists agree on the description of a variable, that doesn't mean the definition possesses the qualities of eternal truth — it just means that some people who have thought about it carefully agree that a given definition seems to help answer some questions. Moreover, researchers often settle on a definition of a variable for reasons of convenience. Party identification in the United States is conventionally measured by survey question responses that place voters on a continuum reflecting their identification with the two major political parties. The continuum is represented by this seven point scale: strong Democrat, weak Democrat, independent leaning Democrat, independent, independent leaning Republican, weak Republican, strong Republican.
+
+Political independents are assumed to be in the center of the political spectrum. Yet the truth of the matter might be that many "independents" think of themselves as radicals who are outside the center. Some might be so nonpartisan or apolitical that they just don't think of themselves in terms of political parties at all. Furthermore, some "leaning" independents are nearly as partisan in their voting as "weak" partisans. Although this definition of the variable might not perfectly reflect the underlying truth of the concept partisanship, it continues to have predictive power. The question has been asked on surveys for decades, so it allows researchers to evaluate trends in partisanship over time. As the difficulties of categorizing independents on this spectrum become apparent, new definitions of partisanship will emerge. Ignoring the problem of specifying how concepts should be turned into variables doesn't make the problem go away; it just gets you further into the linguistic soup.
+
+The huge stock of concepts in language creates enormous possibilities for linking up variables to explain events. People have muddled around for centuries trying to sort through significant connections. Science is a slightly elevated form of muddling by which these connections are tried out and tested as carefully as possible. In medical science, it took centuries to isolate the many variables affecting disease. Only recently has medical science become so disciplined that it can diagnose many diseases through highly significant blood-chemistry analysis. This development represents the present stage of a long process of isolating and eliminating a host of unimportant or marginally significant variables. Increasingly in the West, doctors come up against an ancient form of medicine developed to a high art in China, and now we have medical scientists trying to figure out why acupuncture works. Whole new sets of variables must be considered, new conceptual bridges built, and the resistance of conventional understanding overcome.
+
+Unfortunately for social science, we have barely figured out how to lay the foundation for a structure of theory to explain social behavior. Many new students of social science do not see — especially when confronted by thick texts in introductory courses — the context of struggle and accomplishment, tentativeness and probability, behind what has been achieved in social understanding.
+
+Social science currently contains many subdivisions (including political science, sociology, economics, psychology, and education), all of which are working on defining, observing, and linking specific variables within subsystems of behavior. Social scientists are in the process of chasing a good many possible connections between variables. The bits of tested knowledge that do emerge await an integration across the lines of these inquiries. Relatively few have been attempted, though these efforts are bound to increase in view of the dramatic need for comprehensive social understanding.
+
+
+Quantification and Measurement: Turning Concepts into Variables
+
+We said earlier that social scientists turn concepts into variables. This is done so the concept can be expressed in a form that is observable and includes some notion of degree or differentiation. The next question is: How does one pin down that degree or differentiation? The answer involves a two-step process: quantification and measurement.
+
+The idea of quantification means setting up a standard amount of a thing and putting a label on it. When we do this, we make it possible to express abstract concepts (such as length) in a manner that provides a common reference for observation. The origins of some quantifications are pretty strange. The ancient Greeks, for example, needed a standard quantity of distance, so they settled on the length of Hercules' foot. For a long time the foot competed with the cubit, which was the length of someone else's forearm. The trouble with the cubit was that people could never agree on how long the standard forearm was — some said 17 inches, some said 21 inches. Consequently we don't hear much about cubits anymore.
+
+Isolating standardized units increases the power of description and analysis. When Gabriel Fahrenheit established the idea of a degree of temperature, he made possible a much more useful description of hot and cold. It makes a considerable difference with respect to a puddle of water if the temperature is 32 degrees rather than 33 degrees; the words cold and colder don't work very well for capturing that vital degree of difference.
+
+Quantification in social science takes two forms: discrete and continuous. Discrete quantification relates to counting the presence or absence of a thing. It also relates to counting differences of quality as they are captured in categories. A vote for a candidate is a discrete and specific act that can be counted in a conventional manner. A person's sex is a quality that can be counted as being either male, female, or transgender.
+
+Some quantifications, however, have to capture the notion of variation along a continuum. Age is an example of a continuous quantification. True, one can count the number of years in a person's age, but the quantification of age is an expression of something that is ongoing. A reader of this book may be 25.72 years old today; in a few weeks, she will be 26 years old. Continuous quantification deals not with discrete items but with dimensions like age, length, and time. The mark of continuous quantification is that the variable involved may have any value on a scale, whereas in discrete quantification, only whole numbers appear (as in counting sheep).
+
+Each variable has its own peculiar problems and potentials for quantification. One of the distinguishing characteristics of a well-developed science is the array of quantifiable variables that are useful to people working in the field. One of the marks of a smart scientist is the ability to find ways of quantifying important variables in a reliable and meaningful way. Economics has come a long way by using money as a unit of analysis (though economists, among others, sometimes confuse money with value). Many powerful economic indicators, such as the gross domestic product or the consumer price index, are based on money.
+
+Unfortunately for the other social sciences, there aren't such easily quantifiable units for measuring power or representing psychological stress, alienation, happiness, personal security, or, for that matter, value. Yet inventive scientists have found more or less successful ways of capturing quantifiable pieces of these variables. A text in any of these areas contains dozens of illustrations of how concepts are turned into quantifiable variables, and we will see some of them in the next chapter. The importance of quantification is that when it can be accomplished, there is potential for more precise measurement.
+
+Measurement is not something we choose to do or not do — it is inherent in every analytic discussion. If you doubt this, listen carefully in the next conversation you have and notice your dependence on terms that imply measurement. A simple political statement such as, "Democrats generally favor a public role in health care," involves several bits of measurement. The verb favor implies degrees of difference; the terms public and health care can have several meanings; and Democrats is a classification. The modifier generally attempts to qualify the measurement by indicating that it is not a universal characteristic of all Democrats.
+
+If quantities can be established, measurement becomes much easier. The most obvious measurement deals with the problem of how much: how much distance, how much money, and so forth. Some questions of how much are not so easy to measure — public opinion, for example. Using responses to questions as the quantifiable unit of analysis, one crude survey technique provides respondents a "forced choice" and divides opinion into favorable versus unfavorable. Here, opinion is quantified as a discrete, categorical variable: "Are you for it or against it?" Public-opinion polling is often done on this basis. One thing such a simple measurement conceals, of course, is the intensity of the opinion. On many political issues there may be minorities that are passionately on one side and majorities that are lukewarmly on the other side. Some public-opinion polls deal with this by using five categories instead of two: strongly for, somewhat for, neither for nor against, somewhat against, strongly against.
+
+A political system that simply acts on majority sentiment without taking intensity into account can get itself into a lot of trouble — as this nation did over the Iraq War. A large but rather unenthusiastic majority of the public initially supported the war when President Bush ordered the invasion on March 20, 2003. In less than a year, majority support dissipated. Six years after the war began, opinion reversed with large majorities opposing the war and claiming that it was not worth fighting.
+
+A fancier way of measuring intensity of preferences is to measure opinion in terms of degree. Some surveys ask people to evaluate candidates or parties on a "feeling thermometer" scale where 0 is negative, 50 is neutral, and 100 is positive. This helps expand the range of responses and reveals more accurately the state of opinion, but it may still conceal a great deal of information. It seems that some people may give responses to questions even if they don't really have much of an opinion on the matter.
+
+Consider the responses to "feeling thermometer" questions asked in 2007 about prominent candidates running for president in 2008. As Table 2.1 illustrates, the proportion of people who had neutral feelings about each candidate seems related to the proportion who had actually heard of the candidate. Relatively unknown candidates (Bill Richardson and Sam Brownback) received more scores of "50" than a well known figure like Hillary Clinton. This leads some to wonder whether this question is a valid measure of neutral feelings about lesser known candidates or whether it measures "nonattitudes" or something else.
+
+
+Reliability and Validity of Variables
+
+Quantified measurement of variables, properly conceived and executed, has the potential for specifying differentiation and degree more effectively than fuzzy words in vague sentences. However we decide to measure variables, we hope to find a method of counting that would provide reliable results if it were used by other researchers.
+
+As an example, we could decide to measure presidential approval by asking a random sample of respondents if they like or dislike the president, thereby forcing a choice between only two alternatives. We might expect that other researchers could use the same measure the next day with a comparable random sample and produce results similar to ours.
+
+Conversely, we might ask the first four people we see on a bus to "discuss what they think" about the president. We could then rate presidential approval based on our personal impression of their responses. Other researchers using this measure the next day on the same bus might produce wildly different results. The answers might be vague, and the values influencing the interpretation may differ.
+
+Measurement of a variable is said to have reliability if it produces the same result when different people use it. The forced choice question would probably produce consistent results, because each researcher using comparable samples simply has to count up the number of "likes" and "dislikes" to find a measure of approval. Open-ended discussions with people on the bus, however, require that the researcher interpret a variety of comments that might or might not reflect approval. The answers are meaningful — in some ways even more meaningful than the forced-choice responses. But they are less likely to get us a reliable answer to the question of presidential popularity.
+
+Theoretical concerns about measures of variables can be subtle. Each measure we use is supposed to do a good job of representing the underlying truth of the abstract concept we claim to be representing with a quantified variable. A measure is said to be valid "if it does what it is intended to do." The closer a quantified measure comes to reflecting the definition of the underlying concept the research is concerned with, the more valid the measure is. One of the difficulties of social science is that there is never any clear way of directly assessing validity. For example, the IQ test is a measure that might be used reliably by many researchers attempting to quantify intelligence. However, it will always be debatable just how accurately this test measures a concept as rich, varied, and powerful as intelligence. IQ tests might be reliable, but are they entirely valid?
+
+Improperly conceived measurement is dangerous precisely because it can be so powerful. A tragic and repugnant example was the use of body counts as a key to "progress" in the U.S. effort in the Vietnam War. Newscasts about the war would usually report the military's figures on how many "enemies" were killed each day. The implication was that the more we killed, the faster we would win the war. There were two things wrong with this quantified measurement.
+
+First, it didn't measure what some policy makers alleged that it measured: the amount of success or failure in achieving overall objectives in the war. Since the war was at least as much a political and psychological struggle as a military conflict, the body counts were largely useless as an index of success. They might have told the military something about the condition of the enemy, but reliance on them promoted adverse political and psychological effects in the Vietnamese population and in our own. The Vietnamese began to notice that it was mainly people of their own race and nationality who were being killed by Americans, regardless of whatever else the war was about. Americans thus came to be feared rather than welcomed as allies by many Vietnamese. At the same time, we began to see ourselves as technological warriors wreaking havoc in a poor country.
+
+A second flaw in the measurement was its implementation. Troops in the field were supposed to count enemy dead and report the number. However, several factors intervened: the confusion (sometimes deliberate) about who was the enemy, the error introduced by having more than one person counting in a particular location, and the chain-of-command pressures for a high body count. Consequently, while the body counts kept going up and led to predictions of success in the war, the actual situation deteriorated.
+
+The very important point is that sloppy or inappropriate measurement is generally worse than no measurement at all. Interpreting the results of measurement requires an understanding of the measurement itself. In Chapter Five, we explore the practical steps involved in making and interpreting measurements.
+
+
+THE HYPOTHESIS
+
+Although much of the preceding discussion may have seemed like a serial review of bits and pieces of scientific thinking, a discussion of hypotheses will bring these matters together.
+
+A hypothesis is a sentence of a particularly well-cultivated breed. The purpose of a hypothesis is to organize a study. If the hypothesis is carefully formed, all the steps of the scientific method follow, as does an outline for the project, a bibliography, a list of resources needed, and a specification of the measures appropriate to the study. The hypothesis provides the structure.
+
+A hypothesis proposes a relationship between two or more variables. For example: Political participation increases with education. This simple assertion can be seen as a hypothesis. It has a subject (the variable political participation), a connective verb (a relationship, increases), and an object (the variable education).
+
+To illustrate the point further:
+
+Obesity increases with poverty.
+
+Union members are more likely than nonunion members to vote Democratic.
+
+Or, less obviously (and, for exercise, you can identify the variables and relations):
+
+Absence makes the heart grow fonder.
+
+An apple a day keeps the doctor away.
+
+Early to bed, early to rise, makes people healthy, wealthy, and wise.
+
+It is crucial to realize that a hypothesis is a supposition, as the Oxford English Dictionary points out, "which serves as a starting point for further investigation by which it may be proved or disproved." A hypothesis stands at the beginning, not the end, of a study, although good studies may suggest new paths of fruitful inquiry and new hypotheses.
+
+So far, most of our examples of hypotheses have been quite simple. But to go from the straightforward to the bizarre, let us cite an experience in teaching scientific thinking. A student came to one of us with the following proposal for research:
+
+"The fragile psycho-pathological type of double helical existence issuing from the precarious relationship of the colonizer and the colonized (which figuratively is similar to the relationship of Siamese twins) and their respective interaction within the colonial situation is psychologically effective, which ramifications lead to psychological maladjustments, i.e., neuroses which subsequently define the nature of the political particulars therein."
+
+That was just the beginning of the proposal! In all that confusing language, there are lots of variables and many relationships. Sorting it out, however, yields two hypotheses:
+
+Colonialism is associated with neurotic behavior by colonizer and colonial.
+
+This neurotic behavior influences the political structure of colonialism.
+
+These two hypotheses, large as they are, are somewhat manageable. The concept colonialism describes a well-established political situation. The relationship is associated with was a retreat from saying causes — a precaution taken in view of the limited research resources available to the student. Neurotic behavior is a tricky concept, but it has parentage in the literature of psychoanalytic theory; there are behaviors that can respectably be labeled neurotic. From there it becomes a matter of showing the links between the kinds of neurotic, self-destructive behavior that occur in colonial situations and the repressive and authoritarian patterns of colonial politics.
+
+Had the student accomplished all that these hypotheses imply by way of evidence gathering, measurement, and evaluation, he would have been in line for a Ph.D. As long as we both knew that he was just scratching the surface, his paper (bravely entitled "Colonialism: A Game for Neurotics") was good enough for undergraduate requirements.
+
+One of the things this example illustrates is that there is often a prior step to hypothesis formation. The step is called problem reformulation. In the preceding example, we began with a generalized concern about colonialism and neurosis. The student elaborated that concern into a complex description of the problem. We narrowed it down by specifying variables and relationships into something that could be dealt with, at least in a general way. With a workable reformulation, defining the ways that variables are represented becomes easier.
+
+One of the arts of social science is skillful problem reformulation. Reformulation requires, in addition to some analytic common sense, the ability to see the variables in a situation and the possible relationships between them. A good first step is to break the problem into its component variables and relationships. Writing down lists of hypotheses associated with a problem enables you to select the ones that answer two questions: Which hypotheses are crucial to the solution of the whole problem? For which hypotheses is there information within the range of your resources? Sometimes these questions force some unpleasant choices, but they help prevent arriving at the end of a research effort with nothing substantial on which to hang a conclusion. The preceding example on colonialism and neurosis illustrates the point.
+
+The importance of establishing a hypothesis correctly before starting off on a research task can hardly be overstated. The following rules will help:
+
+1. The variables must be clearly specified and measurable by some technique you know how to use.
+
+2. The relationship between the variables must be precisely stated and measurable.
+
+3. The hypothesis should be testable, so that evidence of the relationship can be observed, demonstrated, or falsified.
+
+If these rules are not followed, the hypothesis may be unwieldy, ridiculous, or just too hard to research in view of available resources. Precise definitions and thoughtful specification of measurements are, in short, the keys. The struggle to form a hypothesis carefully may not be enjoyable, but the questions raised in the process have to be answered sooner or later.
+
+The hypothesis, then, provides the structure for your entire research effort, whether it involves interviews and surveys, analysis of previously collected data, library research, or all three. It will direct you to relevant information so you do not waste time and effort. The variables you have selected can be researched through library search engines, Internet resources such as Google Scholar, book indexes, periodical guides, online services, and other computer database searches. The relationships proposed between the variables suggest the measurement tools and standards for evaluation that you will need to use. The results of the hypothesis test are the substance of your conclusions.
+
+Once relationships between variables have been established through hypothesis formation and testing, these relationships can be expressed as generalizations. Generalizations based on tested relationships are the object of science. A generalization is a hypothesis affirmed by testing. As generalizations in a field of study accumulate, they form the raw stuff of theories. But this gets us ahead of the story. For now, we need to see how the scientific method sets the procedure for research into a logical sequence.
+
+
+THE SCIENTIFIC METHOD
+
+The technique known as the scientific method is quite commonsensical. The model inquiry proceeds by steps that include the following:
+
+1. The identification of the variables to be studied.
+
+2. A hypothesis about the relation of one variable to another or to a situation.
+
+3. A reality test whereby changes in the variables are measured to see if the hypothesized relationship is evidenced.
+
+4. An evaluation in which the measured relationship between the variables is compared with the original hypothesis and generalizations about the findings are developed.
+
+5. Suggestions about the theoretical significance of the findings, factors involved in the test that may have distorted the results, and other hypotheses that the inquiry brings to mind.
+
+Although we have sketched here the bare bones of the scientific method, the actual procedure of research does not always start directly with hypothesis formation. As a preliminary to stating hypotheses, social scientists often examine the data collected in a subject area to see if there are connections between the variables. The relationships brought to light by various statistical processes frequently suggest the hypotheses it would be fruitful to explore. Occasionally, simply getting involved with a set of data triggers an interesting thought, a chance insight, or a new idea. A great quantity of data has been generated over the past few decades, so researchers can usually avoid having to begin at the beginning with every inquiry. The analysis of existing data can be extremely helpful in identifying new data needed to test a crucial relationship.
+
+This is only an outline of the scientific method. In the hands of a skilled analyst, other elements are introduced, such as the use of alternative forms of measuring results, detailed conceptual analysis of the variable description, relationships between one's own study and others, assessments of the validity of the measuring instruments, the use of experimental and control groups, and, equally important, careful conjecture that goes beyond what is established in the test itself. These embellishments on the methodology, however, relate more to the tools used in carrying on the method than to the method itself.
+
+The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit.
+
+Consider the differences between two kinds of studies: (1) an empirical scientific study in which the author states his or her values, forms hypotheses, lays out a testing procedure, carefully selects and discusses measurements, produces a specific result, and relates this to the hypotheses; and (2) a nonscientific study in which the author expresses values, develops a general thesis, examines relevant examples, and states the conclusions.
+
+Notice that the tension between thought and investigation is present in both studies. But one important difference is the feasibility of checking the validity of the conclusions in the first example as opposed to the second, by repeating the study. Replication is the word social scientists use to indicate the ability to repeat a study as a way of checking on its validity. Replication constitutes a very strong test of a good study because it can reveal errors that might have crept in through the procedures and evaluative judgments contained in the principal study.
+
+A second difficulty with a nonscientific study lies in the problem of relating one study to another. Have you ever been annoyed in a discussion when someone asks you to define your terms? Have you ever gotten into arguments that end with "How do you know that is true?"
+
+A good scientific study presents all the information needed to see what took place. For example, if standard variable definitions are used, a study of voters' assessments of candidates can be added to studies of how voters view issues, parties, or whatever. As scientists try to build cumulative bodies of knowledge, different studies of the same variables using different measures can be compared to see if measurement techniques create alternative results. The point, once again, is that science regulates and specifies the relationship between thought and investigation in such a way that others may know exactly what has been done.
+
+
+THE MANY ROLES OF THEORY
+
+Science rests its claim to authority upon its firm basis in observable evidence about something called "reality." We have occasionally described science as, simply, reality testing. Since everybody thinks he or she knows what reality is, science acquires a fundamental appeal. Yet the necessary partner of realism in science is that wholly imaginary phenomenon, theory. Without the many roles that theory plays, there would be no science (and, some would argue, there would be no understandable "reality," either).
+
+Just as language arises out of the experience of coming to grips with human needs, so also does theory arise from tasks that people face. The hardest task is to explain what's really going on out there. Volumes have been written about what theory is and isn't. For our purposes, a theory is a set of related propositions that suggest why events occur in the manner that they do.
+
+The propositions that make up theories are of the same form as hypotheses: They consist of concepts and the linkages or relationships between them. Theories are built up as hypotheses are tested and new relationships emerge.
+
+Theory abounds in the most ordinary transactions of life. There are theories of everything from the payoff of slot machines to the inner meaning of Dilbert cartoons. The grandest theories of all are religious and philosophical, embracing huge orders of questions about the origin of the physical universe, the history of the species, the purposes of life, and the norms of behavior that lead to virtue and, possibly, happiness. To the faithful, such theories are made true by a belief in supernatural phenomena. These kinds of theories are presented as if they were embedded in the larger cosmos of our existence, awaiting our arrival at understanding.
+
+Social science, by contrast, generally operates from a different perspective on theory. The most conventional posture of a social scientist is one of pragmatism: A theory is only as good as its present and potential uses in explaining observations. The point of any science is to develop a set of theories to explain the events within their range of observation.
+
+It is tempting, but misleading, to conceive of theory as something rock-like and immobile behind the whiz and blur of daily experience. Rather, theory is a sometimes ingenious creation of human beings in their quest for understanding. People create theories in proportion to needs, and the theories they create can be either functional or dysfunctional to those needs. A theory could contain a complete system of categories and generalizations — but still be useless. If, for example, one were to categorize the world in terms of tall things and short things and characterize all the relationships between them, a theory would have been born, but it would be one of dubious utility — not false, but useless.
+
+Social science theory is often derived from fundamental assumptions about human behavior. Rational actor theories suggest that individuals, organizations, and nation-states are motivated by a desire to maximize their material interests. Based on this type of theory, we might hypothesize that voters select candidates that further their own economic interest. Alternatively, psychological theories assume that voting actions are determined by people's long-term feelings of attachment for political parties. Voters are thought to be socialized, via the family, to be loyal to a particular party. From this theory, we might hypothesize that voters act like their parents, or that they select candidates of the same party year after year. The origins of wars have been explained by rational actor theories and psychological theories, as well as by Marxian theories and other forms of social theory.
+
+We have been discussing what theory is and is not. The next question is: What does it do? The answer is: many things. We list four particular uses of theory in social scientific thinking:
+
+1. Theory provides patterns for the interpretation of data.
+
+2. Theory links one study with another.
+
+3. Theory supplies frameworks within which concepts and variables acquire substantive significance.
+
+4. Theory allows us to interpret the larger meaning of our findings for ourselves and others.
+
+Let's illustrate these four uses of theory by looking at the question of voter participation. The rate of voter participation is an important indicator of democracy. It is reasonable to expect that different types of election rules will affect how many people think it is worth their time and effort to vote. We will show how theory influences the way we look at questions of political participation under contrasting sets of election rules. The patterns observed in the data, the links established between studies, the substantive significance of the findings, and their larger meaning are all shaped by the theories the researcher uses.
+
+In this illustration, we will focus on how election rules translate people's votes into seats for parties in a legislature. In the United States, nearly all elections are for single-member districts. These rules award a single seat to the candidate who wins the most votes in each district. Where the rules allow a wider variety of parties to win seats (as in proportional representation, or PR, systems), presumably more people will vote. In PR systems, each party wins a proportion of the total number of seats based on its percentage of the vote. Thus, if 10 legislative seats are to be allocated in an election, most of the seats would likely go to candidates from large parties, but smaller parties can elect candidates to one or two seats by winning 10 or 20 percent of the vote.
+
+Some theorize that winner-take-all rules in single-member districts might reduce participation. In the United States, the rules mean that nearly all seats are won by candidates from the Democratic and Republican parties. The hypothesis would be that citizens who are not oriented toward candidates from the major parties might be discouraged from voting. Since a large slice of the electorate see themselves as "independents," this becomes an important factor in assessing the effectiveness of U.S. democracy.
+
+Consider the data presented in Table 2.2. The table shows the average level of turnout for elections held in various countries under three types of election rules. Winner-take-all rules award seats only to candidates that finish first in a single district. Proportional systems typically allow voters to select a party's slate of candidates, then allocate multiple seats roughly proportionate to each party's vote share. Some nations elect part of their legislature with winner-take-all rules and the rest with proportional rules. These nations have mixed systems.
+
+What is the message of these data? Looking at the top row of data, we find that election rules might affect participation in national elections. Countries that use PR averaged 73 percent turnout, compared with a 54 percent turnout rate for the nations that used winner-take-all rules. These data are averages based on elections in different countries. The data suggest but do not prove conclusively that proportional representation influences more citizens to vote. However, rival explanations and intervening variables, such as cultural differences, might explain these patterns as well.
+
+Where does the theory enter in? What theories fit this pattern of data? One theory is that people are more likely to act — in this case, to vote — when they think their action will have tangible consequences. In other words, they're more likely to vote if they think their most preferred party might win, or if they think their vote might make a difference in a close election. Thus PR systems might attract followers of smaller parties to vote because of the greater likelihood that their vote could have the effect of electing a representative. Since PR allows more parties in a legislature, the data in Table 2.2 seem to support the theory that PR mobilizes a wider range of citizens because their vote is more likely to have a tangible result.
+
+Another theory proposes that people vote out of a sense of civic duty. Under this theory, they vote regardless of perceptions about their preferred party's chances of winning seats. Since we have no data about how the public's sense of civic duty varies across these nations, the fact that our data are consistent with one theory does not mean that we can reject the rival theory.
+
+Being aware of different theories allows social scientists to link their studies with previous research. It also provides a means to generate additional tests that might allow us to reject rival theories that offer alternative explanations for patterns seen in the data. If we found, for example, that there were no differences in perceived civic duty among the places reflected in the data in Table 2.2, a stronger case could be made that PR motivates more people to vote than winner-take-all elections.
+
+PR might cause the perceived benefits of voting (greater chances of representation) to outweigh the costs. It might be that nonvoters in the United States are those who feel politically marginalized by electoral institutions that prevent their preferred candidates from winning office. Through these links in reasoning, social scientists can accumulate knowledge of relationships between different theoretical constructs. So far we have seen two uses of theory in relation to the example in Table 2.2: the patterns the theory provides and the ways that theory links one study to another.
+
+The third use of theory is now apparent. We need to assess the substantive significance of what is observed here. That is, we need to ask if the observations have implications that are interesting or important. This result could be important for testing the usefulness of rational action theories in explaining political behavior. In this case, we might infer that a switch to PR rules could boost turnout substantially in a nation using winner-take-all elections.
+
+It would seem that giving people more choices in elections might lead to greater citizen participation. This raises a host of interesting substantive questions: How would the participation of these voters change a political system? What new parties might succeed? How would institutions such as Congress function with several parties?
+
+The larger meaning of these findings for theories relating political institutions to human behavior lies beyond these specific substantive questions. Participation in a representative democracy is not just a matter of having the formal right to vote. People are also sensitive to the results of the process and to the constraints that institutions create. Clearly, other factors are involved, but it would seem that election systems that lead to the representation of more social groups also encourage more people to vote. Proportional rules that produce representation for a wider variety of people are also likely to have broader effects on citizens' attitudes about politics and government generally.
+
+In discussing theory, we have presented an illustration of its uses in social scientific research. Most researchers are intent on proving their theory to be "right." However, Karl Popper, an influential analyst of the social sciences, shows us that the best use of science is often to refute theories rather than to "prove" them:
+
+"Of nearly every theory it may be said that it agrees with many facts: this is one of the reasons why a theory can be said to be corroborated only if we are unable to find refuting facts, rather than if we are able to find supporting facts."
+
+In other words, data may be more impressive as evidence for the theories they refute than for the theories they support.
+
+What we have not captured in this discussion of theory is the subtlety and creativity with which people think about what they are observing. Theory illuminates observations. Yet, like a beam of light playing on an object, every theory leaves shadows that challenge our imaginations.
+
+On one hand, we can only say that without theory, social science would be an incoherent and meaningless pile of observations, data, and statistics. On the other hand, not all social science can be tied to rigorous and specific theoretical formulations. However, it is absolutely clear that complex social problems need all the well-informed study we can develop. The organization and evaluation of that knowledge in theoretical form is almost as important as gathering it in the first place. History is littered with the wreckage of poorly conceived social theories — sometimes with tragic results — though the power of theoretical imagination has been responsible for some of civilization's greatest advances.
+
+We now have in hand the basic tools of scientific thinking. But tools alone don't get the job done. We need a plan or, as described in the next chapter, a strategy for putting those tools to work to produce some knowledge.
+
+
+CONCEPTS INTRODUCED
+
+Concept. Variable. Discrete quantification. Continuous quantification. Measurement. Reliability. Validity. Hypothesis. Problem reformulation. Generalizations. Scientific method. Replication. Theory.
+
+
+QUESTIONS FOR DISCUSSION
+
+1. Consider the concept unemployment.
+   - How can it be given a definition so that it can be measured as a variable?
+   - How many definitions of unemployment can you think of?
+   - How do these definitions differ?
+
+2. Evaluate different measures of unemployment in terms of reliability and validity.
+   - In terms of reliability, if other researchers used your measures (variables), would they produce similar results?
+   - In terms of validity, do the measures do a good job of representing the concept unemployment?
+
+3. Consider the data about religion and voting in the 2008 election. Develop a table that expresses the relationship between the two variables. Can you form hypotheses about how (or why) religion is associated with voting?
+
+4. One of the more complex questions that social scientists deal with is: Why do people rebel against their governments? Consider three examples of major revolutions (17th-century England, 18th-century France, early 20th-century Russia).
