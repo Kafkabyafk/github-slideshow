@@ -2,7 +2,9 @@ The Elements Of Science
 
 Chapter two
 
-"[Scientific inquiry] begins as a story about a Possible World, a story which we invent and criticize and modify as we go along, so that it ends by being, as nearly as we can make it, a story about real life.", P. B. Medawar
+"[Scientific inquiry] begins as a story about a Possible World, a story which we invent and criticize and modify as we go along, so that it ends by being, as nearly as we can make it, a story about real life."
+
+From the immunologist P. B. Medawar.
 
 To see scientific thought in the context of other kinds of thinking, as we have tried to do, tells us why we should be interested in science.
 Now it is time to see what science is made of.
@@ -235,6 +237,21 @@ It seems that some people may give responses to questions even if they don't rea
 
 Consider the responses to "feeling thermometer" questions asked in two thousand and seven about prominent candidates running for president in two thousand and eight.
 As Table two point one illustrates, the proportion of people who had neutral feelings about each candidate seems related to the proportion who had actually heard of the candidate.
+Here is what Table two point one reports.
+For each candidate there are three figures: an average rating on the feeling thermometer, which runs from zero to one hundred; the percentage of respondents who gave a neutral score of exactly fifty; and the percentage who were unable to rank the candidate at all.
+Among Democratic voters rating Democratic candidates, Hillary Clinton averaged seventy-two, with six percent neutral and essentially no one unable to rank her.
+John Edwards averaged sixty-four, with sixteen percent neutral and four percent unable to rank him.
+Barack Obama averaged sixty-nine, with eleven percent neutral and five percent unable to rank him.
+Joe Biden averaged fifty-four, with nineteen percent neutral and thirty-one percent unable to rank him.
+Bill Richardson averaged fifty-three, with twenty percent neutral and forty-two percent unable to rank him.
+Among Republican voters rating Republican candidates, Rudy Giuliani averaged sixty-five, with eleven percent neutral and five percent unable to rank him.
+Fred Thompson averaged sixty-six, with eleven percent neutral and twenty percent unable to rank him.
+John McCain averaged fifty-nine, with sixteen percent neutral and six percent unable to rank him.
+Mitt Romney averaged sixty, with eighteen percent neutral and twenty-one percent unable to rank him.
+Mike Huckabee averaged sixty-two, with fifteen percent neutral and forty-nine percent unable to rank him.
+Sam Brownback averaged fifty-three, with twenty percent neutral and fifty-nine percent unable to rank him.
+These figures come from a Gallup survey conducted in September two thousand and seven.
+
 Relatively unknown candidates (Bill Richardson and Sam Brownback) received more scores of "fifty" than a well known figure like Hillary Clinton.
 This leads some to wonder whether this question is a valid measure of neutral feelings about lesser known candidates or whether it measures "nonattitudes" or something else.
 
@@ -519,6 +536,15 @@ Winner-take-all rules award seats only to candidates that finish first in a sing
 Proportional systems typically allow voters to select a party's slate of candidates, then allocate multiple seats roughly proportionate to each party's vote share.
 Some nations elect part of their legislature with winner-take-all rules and the rest with proportional rules.
 These nations have mixed systems.
+
+Here is what Table two point two reports, drawn from national elections held from two thousand to two thousand and nine.
+Under winner-take-all rules, average turnout was fifty-four point five percent, with a standard deviation of three point zero percent, across four nations.
+Those four nations were Canada, Great Britain, France, and the United States.
+Under proportional rules, average turnout was seventy-three point four percent, with a standard deviation of twelve point eight percent, across twelve nations.
+Those twelve nations were Denmark, Finland, Greece, Iceland, Ireland, Israel, the Netherlands, Norway, Portugal, Spain, Sweden, and Switzerland.
+Under mixed rules, average turnout was seventy point three percent, with a standard deviation of seven point seven percent, across three nations.
+Those three nations were Germany, Japan, and New Zealand.
+These averages come from nineteen advanced industrialized democracies where voting is largely noncompulsory.
 
 What is the message of these data?
 Looking at the top row of data, we find that election rules might affect participation in national elections.
